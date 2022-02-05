@@ -1,0 +1,17 @@
+Years;Number;Crude rate;ASR (W);ASR (E Old);ASR (E New);Cumulative Risk;Cancer
+1999;2219;05.lip;04.sty;05.lip;08.cze;0.8;Leukaemia
+2000;2276;6.0;04.lut;05.sie;08.sie;0.8;Leukaemia
+2001;2441;06.kwi;04.maj;06.sty;09.mar;0.9;Leukaemia
+2002;2447;06.kwi;04.mar;6.0;09.lut;0.9;Leukaemia
+2003;2520;06.cze;04.mar;06.sty;09.maj;0.9;Leukaemia
+2004;2548;06.lip;04.lut;6.0;09.mar;0.9;Leukaemia
+2005;2578;06.sie;04.lut;6.0;09.kwi;0.9;Leukaemia
+2006;2685;7.0;04.kwi;06.lut;09.cze;0.9;Leukaemia
+2007;2707;07.sty;04.lut;6.0;09.maj;0.9;Leukaemia
+2008;2629;06.wrz;4.0;05.sie;09.sty;0.9;Leukaemia
+2009;2660;7.0;4.0;05.lip;9.0;0.9;Leukaemia
+2010;2642;06.wrz;03.wrz;05.cze;08.sie;0.8;Leukaemia
+2011;2791;07.lut;4.0;05.sie;09.lut;0.9;Leukaemia
+2012;2678;7.0;03.lip;05.kwi;08.lip;0.8;Leukaemia
+2013;2765;07.lut;03.sie;05.maj;08.lip;0.8;Leukaemia
+
